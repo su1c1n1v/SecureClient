@@ -1,0 +1,9 @@
+﻿//Example of how to create a appsettings.json, that you need to create to make this program work
+{
+  "Instance": "https://login.microsoftonline.com/{0}",
+  "TenantId": "{Your tenant Id}",
+  "ClientId": "{Your Client Id}",
+  "ClientSecret": "{Your client secret Id}",
+  "BaseAddress": "{Your url from your API}/weatherforecast/",
+  "ResourceId": "{Your resource Id}/.default"
+}

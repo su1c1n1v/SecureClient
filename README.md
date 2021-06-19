@@ -18,3 +18,5 @@
 ```diff
  This project it was create only to pratice .NET.
  ```
+
+ ##### Credits: [Course]{https://www.youtube.com/watch?v=3PyUjOmuFic&ab_channel=LesJackson} [web]{https://dotnetplaybook.com/secure-a-net-core-api-using-bearer-authentication/}
